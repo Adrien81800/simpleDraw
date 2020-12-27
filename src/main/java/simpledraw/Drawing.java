@@ -21,7 +21,7 @@ public class Drawing {
         private Set<Draw_View> DRAW_VIEW = new java.util.HashSet<Draw_View> ();
         
 
-	public Drawing() {
+	public Drawing() { 
 	}
 
 	/**
