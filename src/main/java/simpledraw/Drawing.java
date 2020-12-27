@@ -93,6 +93,6 @@ public class Drawing {
         public void notifyAllViews() {
             if (null != DRAW_VIEW) 
 			for (Draw_View view : DRAW_VIEW) 
-				view.notify(this);
+				view.notify(this) ;
         }
 }
